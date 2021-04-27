@@ -1,4 +1,5 @@
-# ![](/Assets/banner.png) Project 5: American Sign Language Detection Project
+# ![](/Assets/banner.png)
+Project 5: American Sign Language Detection Project
 
 ## The team:
 <ul>
