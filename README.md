@@ -7,6 +7,7 @@ Project 5: American Sign Language Detection Project
  <li>Lavanya Bandari </li>
  <li>Matthew Hemsley - mhemsley91@gmail.com </li>
  <li>Carlos Wilwayco <li>
+ </ul>
 
 ## Table of Contents
 
