@@ -6,8 +6,7 @@ Project 5: American Sign Language Detection Project
  <li>Timothy L Carter - tcarter.era@gmail.com</li>
  <li>Lavanya Bandari </li>
  <li>Matthew Hemsley - mhemsley91@gmail.com </li>
- <li>Carlos Wilwayco <li>
- </ul>
+ <li>Carlos Wilwayco <li></ul>
 
 ## Table of Contents
 
