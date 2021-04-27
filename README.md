@@ -87,6 +87,8 @@ By adjusting the confidence required to make predictions, we were able to get ou
 
 Next steps are to increase the size of our dataset both with more orginal images, and with augmented images. Maintaining bounding box integrity throughout image augmentation proved to be a major challenge that we would address at the start were to do things differently. Future iterations of this project would involve the comparison of Yolov5 model performance to that of a tailored 2d Convolutional neural network. 
 
+All in all, given the small size of our training set, the first iteration of this project leaves us optimistic about future model performance once the dataset is cleaned and properly augmented. 
+
 Conclusion: A model can be built to interpret the and transcribe the 24 letters of American sign language. Future projects will seek to capture and transcribe a limited set of gestures.
 
 
