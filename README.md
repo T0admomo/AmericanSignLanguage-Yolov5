@@ -3,7 +3,7 @@
 ## The team:
 Timothy L Carter - tcarter.era@gmail.com
 Lavanya Bandari 
-Mathew Hemsley 
+Matthew Hemsley - mhemsley91@gmail.com 
 Carlos Wilwayco 
 
 ## Table of Contents
