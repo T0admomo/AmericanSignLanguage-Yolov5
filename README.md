@@ -1,10 +1,11 @@
 # ![](/Assets/banner.png) Project 5: American Sign Language Detection Project
 
 ## The team:
-Timothy L Carter - tcarter.era@gmail.com
-Lavanya Bandari 
-Matthew Hemsley - mhemsley91@gmail.com 
-Carlos Wilwayco 
+<ul>
+ <li>Timothy L Carter - tcarter.era@gmail.com</li>
+ <li>Lavanya Bandari </li>
+ <li>Matthew Hemsley - mhemsley91@gmail.com </li>
+ <li>Carlos Wilwayco <li>
 
 ## Table of Contents
 
