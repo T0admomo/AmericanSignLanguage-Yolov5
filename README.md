@@ -1,7 +1,7 @@
 # ![](/Assets/banner.png)
 Project 5: American Sign Language Detection Project
 
-## The team:
+## The Team:
 <ul>
  <li>Timothy L Carter - tcarter.era@gmail.com</li>
  <li>Lavanya Bandari </li>
